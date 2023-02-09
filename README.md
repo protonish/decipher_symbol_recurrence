@@ -1,2 +1,5 @@
-# decipher_symbol_recurrence
-Data described in the paper "Decipherment as Regression: Solving Historical Substitution Ciphers by Learning Symbol Recurrence Relations"
+### Code and Data coming soon
+
+Data described in the 2023 EACL Findings paper "Decipherment as Regression: Solving Historical Substitution Ciphers by Learning Symbol Recurrence Relations".
+
+
